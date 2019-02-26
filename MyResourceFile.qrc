@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/AppFiles">
+        <file>Resources/batman.gif</file>
+        <file>Resources/doc.PNG</file>
+    </qresource>
+</RCC>
